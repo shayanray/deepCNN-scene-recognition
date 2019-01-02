@@ -17,4 +17,4 @@ Test Accuracy of the model with Pre-Trained Deep Network on the 10000 test image
 
 
 ## Implementation
-Each of these tasks were mostly implemented from scratch; in some cases leveraging OpenCV functions.
+Leveraging pytorch utils the networks were designed and implemented to accomplish the task.
